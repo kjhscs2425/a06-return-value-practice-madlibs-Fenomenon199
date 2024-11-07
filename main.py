@@ -1,5 +1,12 @@
 adjective0 = input("Give me an adjective: ")
 noun0 = input("Give me a noun: ")
-
+plural_noun= input("Give me a plural noun")
+Person_in_room_female= input("Give me a person")
+adjective0= input("Give me an adjective")
+article_of_clothing= input("Give me an article of clothing")
+noun0=input("Give me anoun")
+a_city=input("Give me a city")
+plural_noun=input("Give me a plural noun")
+adjective0=input("Give me an adjective")
 story = f"There are many {adjective0} ways to choose a/n {noun0} to read."
 print(story)
